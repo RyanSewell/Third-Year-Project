@@ -1,0 +1,2 @@
+318, 348, 377 add in variable for detection percantage
+
